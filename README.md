@@ -1,6 +1,10 @@
 gradle-testflight-plugin
 ========================
 
+<p>
+Support for this plugin is discontinued as TestFlight has discontinued support for Android.  Please see: http://help.testflightapp.com/customer/portal/articles/1450414.
+</p>
+<p></p>
 <p>This plugin is designed to run when you invoke the task:</p>
 
 <p>$ gradle testFlightUploadTask</p>
